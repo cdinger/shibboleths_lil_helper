@@ -1,5 +1,8 @@
 About
 =====
+
+OKAY JOE, how about this
+
 Shibboleth's Lil Helper (slh) is a tool that automates the generation of Apache/IIS Shibboleth Native Service Provider configuration & metadata files.  It provides several benefits over manually configuring each NativeSp instance/server by:
 
 * __Providing a consistent configuration approach__ applied uniformly across all servers in your organization via one easy-to-read config file describing shib config across X web servers (IIS and Apache), Y sites, and Z directory paths.
